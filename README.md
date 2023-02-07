@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ruben Saavedra
-- 👀 I’m interested in data science, machine learning 
+- 👀 I’m interested in data science 
 - 🌱 I’m currently learning python, SQL and other data tools.
-- 💞️ I’m looking to collaborate on anything related to data.
+- 💞️ I’m looking to collaborate on anything related to data science.
 - 📫 How to reach me
 - through GitHub Chat
 
